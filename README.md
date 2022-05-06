@@ -6,21 +6,23 @@ A popular game recreated with React. You can expect to see refactoring and styli
  - [description](#candy-crush)
  - [usage](#usage)
  - [technologies used](#technologies-used)
- - [contributors](#contributors)
+ - [credits](#credits)
  - [license](#license)
  - [tests](#tests)
 
  ## Usage
  
-  ### [Play Now!](https://amachkel.github.io/react-candy-crush/)
+ ### Watch the game in action:
+https://user-images.githubusercontent.com/84882398/167156531-f83d17e6-5b8f-4e24-bdca-00cc248781fd.mp4
 
+### [Play Now!](https://amachkel.github.io/react-candy-crush/)
 
 ## Technologies Used
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Contributors
- If you would like to contribute, please contact me at amachkel@gmail.com.
+## Credits
+ A thanks to [Ania Kubów](https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw) and her React tutorial.
 
 ## Tests 
  There are currently no tests for this project.
