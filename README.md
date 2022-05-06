@@ -7,8 +7,9 @@ A popular game recreated with React. You can expect to see refactoring and styli
  - [usage](#usage)
  - [technologies used](#technologies-used)
  - [credits](#credits)
- - [license](#license)
  - [tests](#tests)
+ - [license](#license)
+ - [contact me](#contact-me)
 
  ## Usage
  
@@ -31,8 +32,5 @@ https://user-images.githubusercontent.com/84882398/167156531-f83d17e6-5b8f-4e24-
  This application is covererd under MIT. Click the badge to learn more. 
 
  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-## Questions
- Questions or comments? You can reach me at amachkel@gmail.com.
- 
- ### Contact Me
+## Contact Me
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amachkel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alex-harkins/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/amachkel)  
